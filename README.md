@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deekshithmd
 - 👀 I’m interested in Web development and Java development
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...<a href="https://in.linkedin.com/in/deekshith-m-d-42a306154">Linkedin</a>
 
 <!---
