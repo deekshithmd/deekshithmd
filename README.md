@@ -1,8 +1,10 @@
 <div align="center">
 
-  # Hi visitor, I'm Deekshith M D!
+  # <h1 align="center">Hi , I'm Deekshith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 [![](https://komarev.com/ghpvc/?username=deekshithmd&color=blue&label=Profile%20Views)](https://github.com/deekshithmd/deekshithmd)
+  
+<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20ReactJS%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
   
   ## Tech Skills
 
@@ -16,11 +18,12 @@
   
   |                                                                     Deekshith's Github Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Deekshith's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=deekshithmd&theme=react-dark&hide_border=true&area=true) |
-| ![Deekshith M D's github stats](https://github-readme-stats.vercel.app/api?username=deekshithmd&show_icons=true&theme=radical)    |
-| ![Deekshith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshithmd&theme=algolia)                    | 
+| ![Deekshith M D's github stats](https://github-readme-stats.vercel.app/api?username=deekshithmd&show_icons=true&theme=radical)   ![Deekshith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshithmd&theme=algolia) |
 
-  
+
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deekshith-m-d/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/deekshith_md) [<img src = "https://img.shields.io/badge/gmail-%2320A1F1.svg?&style=for-the-badge&logo=gmail&logoColor=white">](deekshithmogra@gmail.com)   
 </div>
 
 
