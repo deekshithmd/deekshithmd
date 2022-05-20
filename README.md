@@ -18,7 +18,9 @@
   
   |                                                                     Deekshith's Github Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Deekshith M D's github stats](https://github-readme-stats.vercel.app/api?username=deekshithmd&show_icons=true&theme=radical)   ![Deekshith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshithmd&theme=algolia) |
+| ![Most used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithmd&show_icons=true&theme=tokyonight) 
+  ![](https://github-readme-stats.vercel.app/api?username=deekshithmd&show_icons=true&theme=tokyonight) 
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=deekshithmd&theme=tokyonight) |
 
 
 <h2>Connect with me!</h2>
