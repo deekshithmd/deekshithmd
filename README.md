@@ -4,7 +4,7 @@
   
 [![](https://komarev.com/ghpvc/?username=deekshithmd&color=blue&label=Profile%20Views)](https://github.com/deekshithmd/deekshithmd)
   
-<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20ReactJS%20Enthusiast;%20&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20ReactJS%20|NextJS%20Developer;%20&center=true&width=500&height=50"></a>
   
   ## Tech Skills
 
